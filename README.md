@@ -5,4 +5,4 @@ Scripts written through C# and item models created through Blender.
 Character and world models using Unity Asset Store
 
 
-<img src="https://github.com/shad902/Unity-3D-RPG/blob/main/Preview_game.gif?raw=False">
+<img src="https://github.com/shad902/Unity-3D-RPG/blob/main/Preview_game.gif?raw=true">
