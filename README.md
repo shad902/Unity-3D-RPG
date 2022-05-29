@@ -1,4 +1,4 @@
-# Unity-3D-RPG [Needs editing]
+# Unity-3D-RPG 
 3D RGP made using Unity and Blender
 
 Scripts written through C# and item models created through Blender. 
